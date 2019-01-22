@@ -7,5 +7,5 @@ module.exports = {
     connection: {
       filename: './data/auth.sqlite3'
     }
-  },UseNullAsDefault: true,
+  },useNullAsDefault: false,
 };
